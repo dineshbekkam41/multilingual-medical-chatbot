@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+gradio
+deep-translator
+unsloth
+accelerate
+peft
+bitsandbytes
